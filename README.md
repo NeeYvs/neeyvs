@@ -1,12 +1,7 @@
-[![MasterHead](https://cdn.discordapp.com/banners/941278760676773898/a_8b5f0ce3bca735e5df0b6a4a039ec415.gif?size=2048)](https://neey.xyz)
 <h1 align="center">Hi 👋, I'm NeeY</h1>
 <h3 align="center">A passionate backend developer to FiveM from Poland.</h3>
 <img align="right" alt="Cat <3" width="400" src="https://i.pinimg.com/564x/f1/fe/06/f1fe06ef5eb03b635b6abe824048d531.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeyvs&label=Views&color=00ffee&style=flat" alt="neeyvs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeyvs" alt="neeyvs" /></a> </p>
-
-- 🌱 I’m currently learning **Bun**
+<p align="left"> <img src="https://cdn.discordapp.com/banners/941278760676773898/a_8b5f0ce3bca735e5df0b6a4a039ec415.gif?size=2048" alt="neeyvs" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
