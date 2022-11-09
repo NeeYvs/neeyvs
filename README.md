@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NeeY</h1>
-<h3 align="center">A passionate backend developer to FiveM from Poland.</h3>
+<h3 align="center">A passionate backend (lua, js, php) developer to FiveM from Poland.</h3>
 <img align="right" alt="Cat <3" width="400" src="https://i.pinimg.com/564x/f1/fe/06/f1fe06ef5eb03b635b6abe824048d531.jpg">
 <p align="left"> <img src="https://cdn.discordapp.com/banners/941278760676773898/a_8b5f0ce3bca735e5df0b6a4a039ec415.gif?size=2048" alt="neeyvs" /> </p>
 
